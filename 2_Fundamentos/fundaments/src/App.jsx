@@ -5,6 +5,7 @@ function App() {
    return (
       <div>
         <h1>Fundamentos do React</h1>
+        <p>Teste Git and GitHub</p>
         <FirstComponent/>
       </div>
   )
